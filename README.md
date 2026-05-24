@@ -8,17 +8,18 @@ Je cherche actuellement une alternance en administration systèmes, réseaux ou 
 
 ### Tech Stack & Intérêts
 
+* **Développement & Scripting :** Automatisation (Python, Lua, Bash), fondamentaux du Web (HTML/CSS, bases PHP/JS), notions de programmation en C.
 * **Ops & Systèmes :** Administration Linux (Debian, Red Hat), Windows Server, Samba AD.
 * **Réseaux :** Architecture et segmentation (VLAN), routage, Cisco, services essentiels (DNS, DHCP, VPN).
-* **Virtualisation :** Proxmox VE, VMware ESXi, Hyper-V, XCP-ng, Docker.
-* **Sécurité & Scripting :** Automatisation (Bash, Python, Lua), monitoring, analyse de logs, durcissement système.
+* **Virtualisation & Conteneurs :** Proxmox VE, VMware ESXi, Hyper-V, XCP-ng, Docker.
+* **Sécurité & Monitoring :** Analyse de logs, durcissement système, détection d'incidents.
 
 ---
 
 ### Projets & Cybersécurité
 
 #### Déploiement d'un Mini SI d'Entreprise Sécurisé
-*Simulation d'une infrastructure PME pour 10 utilisateurs (Déc. 2025 - Janv. 2026)*.
+*Simulation d'une infrastructure PME pour 10 utilisateurs (Déc. 2025 - Janv. 2026).*
 * Mise en place d'un serveur Debian 13.3.0 en cœur de réseau.
 * Configuration d'un contrôleur de domaine Samba AD pour la gestion centralisée (13 comptes).
 * Déploiement et isolation de 6 services (DNS, DHCP, VoIP Asterisk, VPN, TrueNAS en RAID 1) via 3 VLANs distincts sur 5 machines virtuelles.
@@ -34,7 +35,3 @@ Je cherche actuellement une alternance en administration systèmes, réseaux ou 
 
 * **Bachelor IT — Administrateur Systèmes et Réseaux** | La Plateforme (2024 - 2027)
 * **BTS Électrotechnique** | Lycée Jean-Perrin (2022 - 2024)
-
----
-
-🌐 [Mon profil GitHub](https://github.com/Badis-Wachani)
